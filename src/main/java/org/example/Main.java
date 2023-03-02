@@ -1,7 +1,4 @@
 package org.example;
-
-import jdk.jshell.JShell;
-
 import java.util.Scanner;
 import java.util.logging.Logger;
 
